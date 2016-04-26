@@ -2,6 +2,8 @@
 % Bruno Martin
 % 25 avril 2016
 
+https://github.com/brumar/presentations
+
 ## But de la présentation
 
 > - Présentation rapide du mind mapping
